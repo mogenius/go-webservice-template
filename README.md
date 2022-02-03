@@ -7,6 +7,6 @@ This is a template to run Go on [mogenius](https://mogenius.com). We use it to d
 - Submit your ideas: [feedback.mogenius.com](https://feedback.mogenius.com)
 
 
-Credits:\
+## Credits
 Thanks a lot to Kulshekhar Kabra for providing this nice example.\
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
